@@ -1,4 +1,4 @@
-//this is simple multiple thread
+//this is simple Runnable interface
 
 package multithreading;
 
