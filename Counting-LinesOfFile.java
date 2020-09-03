@@ -1,4 +1,4 @@
-#In this Program we are going to count the no of lines in a text file and print total time 
+//In this Program we are going to count the no of lines in a text file and print total time 
 
 package multithreading;
 
