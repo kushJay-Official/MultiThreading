@@ -1,4 +1,4 @@
-#this is first simple thread
+//this is first simple thread
 
 package multithreading;
 
